@@ -23,7 +23,7 @@ Desenvolvido com **Arduino Uno**, módulo **LoRa** e **Arduino IDE** para progra
 
 - Capta a localização atual do caminhante e envia os dados por LoRa para um ponto central.
 - Focado em cenários de baixa conectividade, aumentando segurança e monitorização em trilhos.
-- Demonstra integração de hardware, comunicação de longo alcance e tratamento de dados.
+- Demonstra integração de hardware, comunicação de longo alcance e tratamento de dados.[web:56][web:59]
 
 **Tecnologias:** Arduino Uno, módulo LoRa, Arduino IDE, C/C++ para microcontroladores.
 
@@ -46,9 +46,9 @@ Aplicação web **full stack** para gerir e visualizar informações relacionada
 Participação em projetos de grupo na universidade (equipas como **IVentaura** e **Grupo Water**), aplicando **metodologias ágeis** e **GitHub Actions**:
 
 - Trabalho em equipa com divisão de tarefas, planeamento de iterações e entregas incrementais.
-- Uso de **Scrum/Kanban** para organizar o trabalho (tarefas, prioridades, acompanhamento).
+- Uso de **Scrum/Kanban** para organizar o trabalho (tarefas, prioridades, acompanhamento).[web:29][web:66]
 - Colaboração via GitHub: branches, pull requests e integração de código em grupo.
-- Configuração de **GitHub Actions** para automatizar build e testes em projetos académicos.
+- Configuração de **GitHub Actions** para automatizar build e testes em projetos académicos.[web:32][web:90]
 
 ---
 
@@ -224,13 +224,13 @@ Participação em projetos de grupo na universidade (equipas como **IVentaura** 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=<teu_usuario_github>&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Getcode7&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=<teu_usuario_github>&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getcode7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
