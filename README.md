@@ -1,67 +1,7 @@
 # 👨🏻‍💻 Ecleber Monteiro
 
-**Engenheiro Informático | Desenvolvedor Full Stack**
-
-Sou engenheiro informático a viver em Portugal, com forte interesse em desenvolvimento de software e na criação de soluções úteis para problemas reais.  
-Tenho experiência em desenvolvimento **full stack**, integração de hardware com software (**Arduino + LoRa**) e construção de **aplicações web completas** com backend e frontend integrados.
-
-- 💻 Experiência com **Git** e **GitHub**: branching, pull requests, colaboração em equipa e revisão de código  
-- ⚙️ Utilização de **GitHub Actions** em projetos académicos para automatizar build e testes  
-- 🔁 Vivência com **metodologias ágeis** (Scrum / Kanban) em projetos universitários  
-- 🌍 Interesse em oportunidades **júnior** ou **estágio** como **Backend** ou **Full Stack** (remoto ou híbrido em Portugal)  
-- 🐳 Interesse em **Docker**, integração contínua e boas práticas de deploy  
-- 🔗 LinkedIn: [Ecleber Monteiro](https://www.linkedin.com/in/ecleber-ara%C3%BAjo)
-
----
-
-## 💼 Projetos em destaque
-
-### 🛰️ Sistema de apoio a caminhantes com tecnologia LoRa
-
-Sistema desenvolvido para apoiar caminhantes em zonas com pouca ou nenhuma cobertura de rede móvel, utilizando comunicação **LoRa** para envio de localização.
-
-- Captação da localização atual do caminhante  
-- Envio de dados por **LoRa** para um ponto central  
-- Foco em cenários de baixa conectividade, aumentando segurança e monitorização em trilhos  
-- Integração de **hardware**, comunicação de longo alcance e tratamento de dados  
-
-**Tecnologias:** Arduino Uno, módulo LoRa, Arduino IDE, C/C++
-
----
-
-### 🌐 Plataforma web de apoio ao caminhante
-
-Aplicação web **full stack** para gestão e visualização de informações relacionadas com caminhantes e dados recebidos do sistema LoRa.
-
-- Desenvolvimento de **backend e frontend** integrados  
-- Registo e gestão de utilizadores, percursos e alertas  
-- Interface web com foco em clareza e usabilidade  
-
-**Tecnologias:**  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Node.js, Express  
-- Base de dados: MongoDB  
-
----
-
-### 👥 Projetos académicos com metodologias ágeis e GitHub Actions
-
-Participação em projetos de grupo na universidade (equipas como **IVentaura** e **Grupo Water**), aplicando **metodologias ágeis** e boas práticas de desenvolvimento colaborativo:
-
-- Planeamento de tarefas e entregas incrementais  
-- Utilização de **Scrum** e **Kanban**  
-- Colaboração via GitHub com **branches e pull requests**  
-- Automatização de build e testes com **GitHub Actions**
-
----
-
-## 🔀 Pull Requests
-
-👉 **Todos os meus Pull Requests públicos no GitHub:**  
-
-🔗 https://github.com/pulls?q=is%3Apr+author%3AGetcode7
-
-> Esta página mostra automaticamente todos os PRs criados por mim, incluindo PRs abertos, fechados e merged.
+Sou um desenvolvedor iniciante que transforma café em código ☕💻.  
+Ainda estou a aprender, a errar e a corrigir (muitas vezes no mesmo commit), mas com muita vontade de evoluir, colaborar em equipa e criar soluções que realmente funcionem — de preferência na primeira tentativa 😅.
 
 ---
 
@@ -103,6 +43,13 @@ Participação em projetos de grupo na universidade (equipas como **IVentaura** 
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 
 <br/><br/>
+
+---
+
+## 🔀 Pull Requests
+
+👉 Meus Pull Requests públicos no GitHub:  
+🔗 https://github.com/pulls?q=is%3Apr+author%3AGetcode7
 
 ---
 
