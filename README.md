@@ -48,8 +48,8 @@ Ainda estou a aprender, a errar e a corrigir (muitas vezes no mesmo commit), mas
 
 ## 🔀 Pull Requests
 
-👉 Meus Pull Requests públicos no GitHub:  
-🔗 https://github.com/pulls?q=is%3Apr+author%3AGetcode7
+Os meus Pull Requests são tímidos 🙈  
+Vivem maioritariamente em repositórios privados, longe dos holofotes públicos — mas prometo que existem, funcionam e até passam nos testes 😄.
 
 ---
 
